@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class tugas3 {
+public class tugas3size {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
